@@ -113,7 +113,7 @@ rs = np.linspace(0,1,101)
 
 start_time = time.clock()
 
-n = 6
+n = 6       #number of nuclear spins
 
 Pr = []
 for r in rs:
