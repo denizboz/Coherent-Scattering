@@ -1,3 +1,6 @@
+#This is the simulation of an electron incoming from the left to a nuclear region with n spins
+#It calculates the probability for the electron to depart the region from the left
+
 import numpy as np
 from matplotlib import pyplot as plt
 import itertools as itt
