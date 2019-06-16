@@ -1,3 +1,5 @@
+#This program does the same job with TextToPlot.py, only for symmetric combinations of nuclear spin arrangements.
+
 import numpy as np
 from matplotlib import pyplot as plt
 
