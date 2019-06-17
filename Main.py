@@ -1,5 +1,5 @@
-#This is the simulation of an electron incoming from the left to a nuclear region with n spins
-#It calculates the probability for the electron to depart the region from the left
+#This is the simulation of an electron incoming from the left to a nuclear region with n spins.
+#For a given reflection amplitude, it calculates the probability for the electron to depart the region from the left.
 
 import numpy as np
 from matplotlib import pyplot as plt
